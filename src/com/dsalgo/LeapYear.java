@@ -29,17 +29,15 @@ public class LeapYear {
         if (year == 0 || year < 0) {
             return false;
         }
-        boolean isleap = false;
-        if (year > 0) {
-            if (year % 400 == 0) {
-                isleap = true;
-            } else if (year % 100 == 0) {
-                isleap = false;
-            } else if (year % 4 == 0) {
-                isleap = true;
-            }
+        boolean isLeap = false;
+        if (year % 400 == 0) {
+            isLeap = true;
+        } else if (year % 100 == 0) {
+            isLeap = false;
+        } else if (year % 4 == 0) {
+            isLeap = true;
         }
-        return isleap;
+        return isLeap;
 
     }
 }
