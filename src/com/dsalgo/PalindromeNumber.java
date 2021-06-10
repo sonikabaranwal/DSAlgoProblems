@@ -1,4 +1,4 @@
-package com.dsalgo.easy;
+package com.dsalgo;
 /* Given a number N, you need to check whether the given number is Palindrome or not.
  A number is said to be Palindrome when it reads the same from backward as forward.
 

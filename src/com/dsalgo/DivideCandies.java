@@ -1,4 +1,4 @@
-package com.dsalgo.easy;
+package com.dsalgo;
 /* Given an integer N and M.
 Check if N candies can be divided in M people such that each person gets equal number of candies.
 

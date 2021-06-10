@@ -1,4 +1,4 @@
-package com.dsalgo.easy;
+package com.dsalgo;
 /* Given an array A of size N containing positive integers. Find maximum and minimum elements from the array.
 
 Input

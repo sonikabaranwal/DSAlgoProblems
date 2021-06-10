@@ -1,4 +1,4 @@
-package com.dsalgo.easy;
+package com.dsalgo;
 /* Given an array of N integers, your task is to calculate the sum of all the odd integers present in the array.
 
 Input

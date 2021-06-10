@@ -1,4 +1,4 @@
-package com.dsalgo.easy;
+package com.dsalgo;
 /* Given marks of a student in 5 subjects(any).
 You need to find the grade he/she would get on the basis of percentage obtained. Grades computed are as follows:
 

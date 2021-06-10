@@ -1,4 +1,4 @@
-package com.dsalgo.easy;
+package com.dsalgo;
 
 /* Given a number N,find the factorial of that number.
   Input

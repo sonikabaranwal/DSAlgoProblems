@@ -1,4 +1,4 @@
-package com.dsalgo.easy;
+package com.dsalgo;
 /* Given a calendar year, you need to check whether the year is leap or not.
 
 Input

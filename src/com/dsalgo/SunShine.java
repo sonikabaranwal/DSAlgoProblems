@@ -1,4 +1,4 @@
-package com.dsalgo.easy;
+package com.dsalgo;
 /* Given a number N for each i (1 < = i < = N), you have to print the number except :-
 For each i which is multiple of 3, print "Sun" instead of the number.
 For each i which is multiple of 5, print "Shine" instead of the number.

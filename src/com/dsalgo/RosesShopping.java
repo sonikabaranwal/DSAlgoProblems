@@ -1,4 +1,4 @@
-package com.dsalgo.easy;
+package com.dsalgo;
 /* You wish to buy roses of 3 different colors. You always buy roses in order, white, yellow, red.
 So if you buy 7 roses, they will be "white, yellow, red, white, yellow, red, white".
 You need to find the number of yellow roses that you will buy?

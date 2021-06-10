@@ -1,4 +1,4 @@
-package com.dsalgo.easy;
+package com.dsalgo;
 /* Given an array of N integers, check if it contains any negative integer.
 Input
 First line of input contains a single integer N. The next line contains the N space separated integers.

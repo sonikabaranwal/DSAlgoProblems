@@ -1,4 +1,4 @@
-package com.dsalgo.easy;
+package com.dsalgo;
 /* There are N balloons numbered from 1 to N. Every balloon has another integer value Arr[i] assigned to it where i varies from 1 to N, and i represents the number of balloon.
 
 A balloon at an odd position (i = 1, 3, 5. ) is happy if Arr[i] is odd.

@@ -1,4 +1,4 @@
-package com.dsalgo.easy;
+package com.dsalgo;
 
 import java.util.Scanner;
 /* Sara has 2 brothers which initially have X and Y candies with them. Sara has also N candies with her.

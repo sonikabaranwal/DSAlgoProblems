@@ -1,4 +1,4 @@
-package com.dsalgo.easy;
+package com.dsalgo;
 
 import java.util.Scanner;
 /* It's Erica's 1st birthday and everyone is gifting her chocolates.
