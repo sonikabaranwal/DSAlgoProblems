@@ -32,17 +32,17 @@ public class Fibonacci {
 
         Scanner in = new Scanner(System.in);
         long n= in.nextLong();
-            System.out.println(Fibonacci(n));
+            System.out.println(nthFibonacci(n));
         }
 
 
-    static long Fibonacci(long n) {
+    static long nthFibonacci(long n) {
         if (n == 0) {
             return 0;
         }
         if (n == 1) {
             return 1;
         }
-        return Fibonacci(n - 1) + Fibonacci(n - 2);
+        return nthFibonacci(n - 1) + nthFibonacci(n - 2);
     }
 }
